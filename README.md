@@ -90,7 +90,7 @@ These features collectively contribute to a dynamic and engaging quiz experience
 [![Github](https://img.shields.io/badge/Helena%20Skagerlid-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helenaskagerlid)
 
 [![LinkdIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-sarris/)
-[![Github](https://img.shields.io/badge/Nikolaos%20Sarris-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsemitris)
+[![Github](https://img.shields.io/badge/Nikolaos%20Sarris-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsemitris) **(Head of Design)**
 
 [![LinkdIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecka-g%C3%B6thlin-963037280/)
 [![Github](https://img.shields.io/badge/Rebecka%20Göthlin-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RebeckaGothlin)
